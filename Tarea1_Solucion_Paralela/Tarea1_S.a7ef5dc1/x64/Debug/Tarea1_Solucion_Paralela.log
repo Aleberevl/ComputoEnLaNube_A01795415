@@ -1,0 +1,4 @@
+﻿  Tarea1_Solucion_Paralela.cpp
+C:\Users\juanvalencia\source\repos\Tarea1_Solucion_Paralela\Tarea1_Solucion_Paralela.cpp(29,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juanvalencia\source\repos\Tarea1_Solucion_Paralela\Tarea1_Solucion_Paralela.cpp(30,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Tarea1_Solucion_Paralela.vcxproj -> C:\Users\juanvalencia\source\repos\Tarea1_Solucion_Paralela\x64\Debug\Tarea1_Solucion_Paralela.exe
